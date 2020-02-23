@@ -15,9 +15,9 @@ mult=num1*num2
 end
 
 def modulo(num1, num2)
-modu=num2%num1
+modu=num1%num2
 end
 
 def square_root(num)
-root=num.square_root
+root=num.sqrt
 end
