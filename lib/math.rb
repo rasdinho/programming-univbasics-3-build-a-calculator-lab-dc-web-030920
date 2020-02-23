@@ -19,5 +19,5 @@ modu=num1%num2
 end
 
 def square_root(num)
- puts math.sqrt(num)
+ puts Math.sqrt(num)
 end
